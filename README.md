@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Junaid</h1>
 <h3 align="center">3rd-year CS student and React developer with skills in Firebase, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS.development</h3>
-<img  align="right" alt="j." width="400"  src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/200.gif">
+<img  align="right" alt="j." width="300"  src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidyousafzai&label=Profile%20views&color=0e75b6&style=flat" alt="junaidyousafzai" /> </p>
 
