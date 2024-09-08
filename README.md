@@ -13,14 +13,24 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
 ## 🌐 Check out my Social Handles :
+<br/>
+<a href="https://www.linkedin.com/in/junaid-yousafzai-980b27262/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<br/>
+<a href="https://www.facebook.com/junaid.yousafzai.140" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+</a>
+<br/>
+<a href="https://www.instagram.com/junaid.webdev/?igshid=azh4NnpyejhjNDl4" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/junaid.yousafzai.140)
 <br/>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/junaid.webdev/?igsh=azh4NnpyejhjNDl4) 
-<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-yousafzai-980b27262/) 
-<br/>
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27088659/junaid-muhammad)
+<a href="https://stackoverflow.com/users/27088659/junaid-muhammad" target="_blank">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+</a>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JunaidYousafzai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
