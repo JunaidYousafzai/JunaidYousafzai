@@ -2,7 +2,7 @@
 
 <img  align="right" alt="j." width="250"  src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/200.gif">
 # 💫 About Me:
-🌱 I’m currently learning Next Js,<br><br>👨‍💻 All of my projects are available at https://github.com/JunaidYousafzai<br><br>📫 How to reach me mjunaidyousafzai948@gmail.com<br><br>⚡ Fun fact I Can Edit Videos
+🌱 I’m currently Learning Dsa,<br><br>👨‍💻 All of my projects are available at https://github.com/JunaidYousafzai<br><br>📫 How to reach me mjunaidyousafzai948@gmail.com<br><br>⚡ Fun fact I Can Edit Videos
 <br />
 <br />
 <br />
